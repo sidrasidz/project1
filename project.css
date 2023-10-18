@@ -1,0 +1,242 @@
+
+.sec1{
+    background-image: url(light.avif);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    position:relative;
+    z-index: -2;
+
+}
+.opacity{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(50, 84, 148, 0.607) ;
+    z-index: -1;
+}
+.santa{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.navbar{
+    background-color: rgb(50 85 148);
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+    margin: 15px;
+}
+.dora{
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+.head{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.line{
+    background-color:  rgb(50 85 148);
+    height: 2px;
+    width: 80px;
+    margin: auto;
+}
+.chinchan{
+    background-color: rgb(255, 255, 255);
+}
+.star{
+    background-color:  rgb(50 85 148);
+    height: 50px;
+    margin-top: 15px;
+    margin-right: 15px;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 4px 4px 4px  rgb(50 85 148) ;
+    border-radius: 7px;
+    color: white;
+    padding-top: 10px;
+}
+.power{
+    font-weight: bold;
+}
+.inbox2{
+    height: 200px;
+    background-color:  rgb(50 85 148);
+}
+.read{
+    background-color: rgb(50 85 148);
+    padding: 9px 20px;
+    text-decoration: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+}
+.red{
+    color: white;
+}
+.red :hover{
+    color: white;
+}
+.luttappi{
+    background-color: rgb(50 85 148);
+    margin-top: 20px;
+}
+.mayavi{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top:25px;
+}
+.bi1{
+    background-color: white;
+    border-radius: 50%;
+    color: rgb(50 85 148);
+    padding: 10px 13px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.one{
+    color: white;
+    margin-top:30px;
+    display: inline-block;
+}
+.ice{
+    background-color: white;
+}
+.cream{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.jackichan{
+    color: white;
+    text-decoration: none;
+    font-weight:500px;
+    text-align: center;
+}
+.jackichan :hover{
+    color: white;
+}
+
+.picachu{
+    background-color: rgb(50 85 148);
+    height: 200px;
+    margin-top: 30px;
+}
+
+.buji{
+    background-color: rgb(255, 255, 255);
+}
+.beem{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.marsuppilami{
+    background-color: white;
+    height: 500px;
+   font-weight: bold;
+   text-align: center;
+   margin-top: 40px;
+   padding-top: 20px;
+   border: 1px solid lightgrey;
+   box-shadow: 0px 0px 5px gray;
+}
+.doremon{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.link{
+    text-decoration: none;
+}
+.read1{
+    background-color:  rgb(50 85 148);
+    padding: 9px 20px;
+    text-decoration: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+}
+.readmore{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
+.readmore :hover{
+    color: white;
+}
+.digan{
+    background-color:rgb(255, 255, 255) ;
+    padding-top:30px ;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.gappy{
+    text-align: center;
+}
+.inbox2{
+    background-color: lightgrey;
+    box-shadow: 0px 0px 4px black;
+}
+.sec{
+    background-color: rgb(50 85 148);
+    margin-top: 25px;
+    padding-top: 50px;
+}
+.first{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.last{
+    color: white;
+}
+.angel{
+    height: 50px;
+   background-color: rgb(50 85 148);
+   width: 100%;
+   border:1px white solid;
+}
+.devil{
+    height:100px;
+   background-color:  rgb(50 85 148);
+   width: 100%;
+   border:1px white solid;
+}
+.inbox4{
+    margin-top: 20px;
+}
+.time{
+    height:30px;
+   background-color: rgb(50 85 148);
+   width: 100%;
+   border:1px white solid;
+   color: white;
+}
+.inbox5{
+    margin-top: 20px;
+}
+.ban{
+    padding: 8rem 2rem !important;
+    height: 400px;
+}
+.navbar-toggler{
+    font-size: 3.25rem;
+    color: white;
+}
+
+
+
